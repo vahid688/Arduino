@@ -1,0 +1,12 @@
+lcd     esp
+scl     D1
+sda     D2
+
+
+
+DHT    Esp
+Data   D4 
+
+
+LED    ESP
+Catode D6      
